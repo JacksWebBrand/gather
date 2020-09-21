@@ -20,8 +20,14 @@ To learn and maybe use to fantastical effect one day! Crucially (at least for no
 
 Currently, the plan is to implement the main application with React / Typescript; the 'microservices' that will power it with Typescript; the databases with mongoDB; and, most importantly, the API's in Typescript. Should this prove impractical however, as I learn I am open to change for the good of the data! The point is the API's - not the quality of the app they will each be demonstrated within.
 
+## pure\_
+
+_The goal is 'pure' data collection. For example, there would be an API for gathering ip addresses, and one for detecting how long a user hovers over an image; but there won't be an API for detecting how long a typical Briton hovers over images (based on the aggregate data of British ip addresses and how long each of them hovers around)._
+
 ---
 
 ### Immediate future of the project:
 
 1. Create a suite of image based datapoints; focusing on quality over quantity.
+
+ 
