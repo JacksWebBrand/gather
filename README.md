@@ -22,7 +22,7 @@ Currently, the plan is to implement the main application with React / Typescript
 
 ## pure\_
 
-_The goal is 'pure' data collection. For example, there would be an API for gathering ip addresses, and one for detecting how long a user hovers over an image; but there won't be an API for detecting how long a typical Briton hovers over images (based on the aggregate data of British ip addresses and how long each of them hovers around)._
+_The goal is 'pure' data collection. For example, there would be an API for gathering ip addresses, and one for detecting how long a user hovers over an image; but there won't be an API for detecting how long a typical Briton hovers over images (based on the aggregate data of British ip addresses and how long each of them hovers around). It will be for the end user to best decide how to use / correlate the data they gather. This would be an interesting addition to the project in the future however._
 
 ---
 
