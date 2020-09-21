@@ -2,7 +2,7 @@
 
 **what_**
 
-__API's for harvesting every conceivable datapoint, visually represented on a typical social media app.__
+***API's for harvesting every conceivable datapoint, visually represented on a typical social media app.***
 
 **how_**
 
