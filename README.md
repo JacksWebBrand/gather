@@ -14,7 +14,7 @@ Belief and necessity. Initially I had the desire to implement models on datapoin
 
 ## ☑ goal\_
 
-To learn and maybe use one day! Crucially (at least for now), I want to handcraft each API myself, from scratch. Each one should be extremely simple, scalable and powerful. The point is not to tell anyone how to use the data gathered (although examples will naturally be given), but to provide the tools to consistently gather everything possible. Nobody knows just what we will be able to do with the data in the future, so even if it seams useless today we can just keep it on simmer untill it becomes obvious what we should be doing with it!
+To learn and maybe use to fantastical effect one day! Crucially (at least for now), I want to handcraft each API myself, from scratch. Each one should be extremely simple, scalable and powerful. The point is not to tell anyone how to use the data gathered (although examples will naturally be given), but to provide the tools to consistently gather everything possible. Nobody knows just what we will be able to do with the data in the future, so even if it seams useless today we can just keep it on simmer untill it becomes obvious what we should be doing with it!
 
 ## 💻 tech\_
 
