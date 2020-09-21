@@ -19,3 +19,9 @@ To learn and maybe use to fantastical effect one day! Crucially (at least for no
 ## 💻 tech\_
 
 Currently, the plan is to implement the main application with React / Typescript; the 'microservices' that will power it with Typescript; the databases with mongoDB; and, most importantly, the API's in Typescript. Should this prove impractical however, as I learn I am open to change for the good of the data! The point is the API's - not the quality of the app they will each be demonstrated within.
+
+---
+
+### Immediate future of the project:
+
+1. Create a suite of image based datapoints; focusing on quality over quantity.
