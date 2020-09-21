@@ -1,4 +1,4 @@
-# 🚀 gather
+# 🚀gather
 
 ## what\_
 
